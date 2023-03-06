@@ -3,4 +3,5 @@ Predicting the key metrics of Halomonas elongata DSM 2581T fermentation using ML
 
 # Installation Guide
 ->Install AnacondaInstall 
+
 ->Jupyter Notebook
